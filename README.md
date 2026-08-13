@@ -4,7 +4,6 @@
 
 <p align="center"><b>438</b> letters classified &nbsp;·&nbsp; <b>~half</b> cite facility readiness &nbsp;·&nbsp; <b>211</b> CGMP / 483 citations &nbsp;·&nbsp; <b>2024</b> the peak year</p>
 
-**One dataset behind the FDA’s refusals: 438 Complete Response Letters, every one classified against its own wording. Here is what the numbers say.**
 
 <img src="assets/hero.jpg" alt="An operator inspecting a vial above a pharmaceutical filling line in a cleanroom" width="100%">
 
